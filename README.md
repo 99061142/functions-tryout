@@ -1,1 +1,1 @@
-# functions-tryout
+# School assignment
